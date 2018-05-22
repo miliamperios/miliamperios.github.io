@@ -1,0 +1,12 @@
+---
+---
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font: 400 16px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; //1.48125
+  color: #222;
+
+  // Enabling kerning and optional ligatures
+  text-rendering: optimizeLegibility;
+}
