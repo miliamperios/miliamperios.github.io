@@ -4,6 +4,11 @@ https://miliamperios.github.io
 
 ## Setup
 
+```
+git clone git@github.com:miliamperios/miliamperios.github.io.git
+```
+
+
 This will open a browser window showing the site:
 
 ```
