@@ -5,6 +5,6 @@ https://miliamperios.github.io
 ## Setup
 
 ```
-bundle install --path vendor/bundle
+bundle
 bundle exec jekyll serve --open
 ```
