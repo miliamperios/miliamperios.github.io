@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+title: Miliamperios
+show_dir_listing: false
+
+# Build settings
+incremental: true
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    fenced_code_blocks: true
+    default_lang: javascript
+    span:
+      disable: true
+    block:
+      line_numbers: true
+sass:
+  style: compressed
+
+# Exclude this from being processed by Jekyll
+exclude:
+  - vendor
+  - .sass-cache
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "base"
