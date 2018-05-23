@@ -1,9 +1,9 @@
 ---
 layout: base
 ---
-
+<a href="/">Volver</a>
 <h2>{{ page.title }}</h2>
-<small>{{ page.date }}</small>
+<small>{{ page.date | date: "%-d/%m/%Y" }} por {{page.author}}</small>
 
 <div>
   {{ content }}
