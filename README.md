@@ -8,7 +8,6 @@ https://miliamperios.github.io
 bundle
 bundle exec jekyll serve --open
 ```
-
 ## Docs
 
 * [Docs home](https://jekyllrb.com/docs/home/)
