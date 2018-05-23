@@ -6,6 +6,14 @@
   <title>{{ site.title }}</title>
 </head>
 <body>
-{{ content }}
+  <header>
+    <h1>{{ site.title }}</h1>
+  </header>
+  <section>
+    {{ content }}
+  </section>
+  <footer>
+    <a href='{{ site.url }}'>{{ site.title }}</a> — hecho con 🤟🏻 en Madcelona. Código fuente en <a href='https://github.com/miliamperios/miliamperios.github.io'>GitHub</a>.
+  </footer>
 </body>
 </html>

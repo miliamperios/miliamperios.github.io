@@ -1,5 +1,6 @@
 title: Miliamperios
 show_dir_listing: false
+url: https://miliamperios.github.io
 
 # Build settings
 incremental: true
@@ -7,11 +8,6 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     fenced_code_blocks: true
-    default_lang: javascript
-    span:
-      disable: true
-    block:
-      line_numbers: true
 sass:
   style: compressed
 
@@ -29,4 +25,9 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "base"
+      layout: base
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: post
