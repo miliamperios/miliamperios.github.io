@@ -1,9 +1,10 @@
 ---
 layout: base
 ---
-<a href="/">Volver</a>
+<a href="{{ site.url }}">← Volver</a>
+
 <h2>{{ page.title }}</h2>
-<small>{{ page.date | date: "%-d/%m/%Y" }} por {{page.author}}</small>
+<p><small>{{ page.date | date: "%-d/%m/%Y" }} por {{page.author}}</small></p>
 
 <div>
   {{ content }}

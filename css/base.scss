@@ -3,6 +3,7 @@
 
 // Variables
 $base-color: #f60;
+$color-light: #888;
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -14,8 +15,19 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-img {
+body {
+  padding: 1em;
+}
+
+section img {
+  display: block;
+  width: 100%;
   max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0;
+  line-height: 1.2em;
 }
 
 h1 a {
@@ -23,6 +35,29 @@ h1 a {
   text-decoration: none;
 }
 
-footer a {
-  color: $base-color;
+section {
+  h2 {
+    margin-bottom: 0;
+  }
+  h2 + p {
+    margin-top: 0.5em;
+  }
+  p small {
+    color: $color-light;
+  }
+}
+
+footer {
+  text-align: center;
+  padding-top: 2em;
+  color: $color-light;
+  a {
+    color: $base-color;
+  }
+}
+
+// Layout
+header, section, footer {
+  max-width: 40em;
+  margin: 0 auto;
 }
