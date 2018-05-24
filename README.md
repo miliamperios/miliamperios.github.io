@@ -16,7 +16,7 @@ bundle
 bundle exec jekyll serve --open
 ```
 
-## Documentation
+## Documentation
 
 * [Jekyll Docs home](https://jekyllrb.com/docs/home/)
 * [Jekyll Basic usage](https://jekyllrb.com/docs/usage/)
@@ -24,11 +24,13 @@ bundle exec jekyll serve --open
 
 
 ## Writing a post:
+
 ( 👩🏻‍💻 [First install Jekyll](https://jekyllrb.com/docs/installation/))
 
 Go to your terminal
+
 ```
-git pull
+git pull --rebase
 ```
 
 Add a file with format **YYY-MM-DD-your-title.md** to the **_posts** folder.
