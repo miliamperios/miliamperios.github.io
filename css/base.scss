@@ -1,6 +1,9 @@
 ---
 ---
 
+// Variables
+$base-color: #f60;
+
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -13,4 +16,13 @@ html {
 
 img {
   max-width: 100%;
+}
+
+h1 a {
+  color: $base-color;
+  text-decoration: none;
+}
+
+footer a {
+  color: $base-color;
 }
