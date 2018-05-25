@@ -8,7 +8,7 @@ Organiza tu prototipo para poder ser extraído con facilidad.
 
 Muchas veces cacharrear va de meter una parte electrónica (una breadboard llena de cablecitos, por ejemplo) en alguna estructura física (un armario, una caja, una litera, un dispensador de papel).
 
-A menos que tu software pueda actualizado <acronym title="over the air">OTA</acronym>, como un Photon (es una placa *like an Arduino* con wifi), por ejemplo, es mejor que tengas en mente que vas a tener que sacar y meter la electrónica de su caja / entorno / posición varias veces.
+A menos que tu software pueda ser actualizado <acronym title="over the air">OTA</acronym>, como un Photon (es una placa *like an Arduino* con wifi), por ejemplo, es mejor que tengas en mente que vas a tener que sacar y meter la electrónica de su caja / entorno / posición varias veces.
 
 Póntelo cómodo usando enchufes y conectores. Vale la pena el esfuerzo. Si cuesta poco actualizarlo, lo harás más a menudo 🙃
 
