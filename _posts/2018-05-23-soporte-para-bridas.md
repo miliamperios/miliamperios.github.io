@@ -20,7 +20,5 @@ Puedes pegarlos prácticamente donde quieras, y pasarle una brida pequeña en cu
 
 
 ### Referencias
-<dl>
-  <dt>Soportes adhesivos para bridas:</dt>
-  <dd>UNEX 1254</dd>
-</dl>
+Soportes adhesivos para bridas:
+: [UNEX 1254](http://www.unex.net/ES/productos/Elementos_de_fijaci%C3%B3n_26/U60X_color_natural/Base_adhesiva_Unex_19x19_en_U60X/1254)

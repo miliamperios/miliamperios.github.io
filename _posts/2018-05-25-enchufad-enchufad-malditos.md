@@ -20,8 +20,6 @@ Póntelo cómodo usando enchufes y conectores. Vale la pena el esfuerzo. Si cues
  %}
 
 ### Referencias
-<dl>
-  <dt>Particle Photon:</dt>
-  <dd>https://www.particle.io/products/hardware/photon-wifi</dd>
 
-</dl>
+Particle Photon:
+: <https://www.particle.io/products/hardware/photon-wifi>
