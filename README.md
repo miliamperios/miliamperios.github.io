@@ -13,7 +13,7 @@ This will open a browser window showing the site:
 
 ```
 bundle
-bundle exec jekyll serve --open
+bundle exec jekyll serve --livereload --open
 ```
 
 ## Documentation
