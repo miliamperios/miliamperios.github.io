@@ -15,7 +15,7 @@ Para amplificar una señal de 3.3v a 5v se utiliza un chip llamado "level shifte
 {% include image.html
   img="assets/2018-05-26-levelshifter.png"
   title="Esquema level shifter"
-  caption="Conexionado del chip para amplificar dos señales de un WeMos mini PRO"
+  caption="Conexionado del chip para amplificar dos señales de un WeMos mini"
  %}
 
 En este ejemplo estamos amplificando las señales de las salidas D1 y D2 de 3.3v a 5v. Podemos amplificar hasta 8 señales, pero ojo, que el chip está pensado para amplificar señales, no es un convertidor de voltaje para alimentar otros dispositivos.
