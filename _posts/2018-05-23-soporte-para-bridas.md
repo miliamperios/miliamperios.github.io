@@ -12,7 +12,7 @@ Puedes pegarlos prácticamente donde quieras, y pasarle una brida pequeña en cu
 
 
 {% include image.html
-  img="/assets/unex_1254_bridas.jpg"
+  img="/assets/2018-05-23-unex_1254_bridas.jpg"
   title="Reloj cacharrero"
   caption="Mis soportes adhesivos para bridas UNEX 1254"
  %}

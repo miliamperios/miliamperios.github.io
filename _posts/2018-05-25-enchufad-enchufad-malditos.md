@@ -14,7 +14,7 @@ Póntelo cómodo usando enchufes y conectores. Vale la pena el esfuerzo. Si cues
 
 
 {% include image.html
-  img="assets/enchufad.jpg"
+  img="assets/2018-05-25-enchufad.jpg"
   title="Reloj cacharrero"
   caption="Este reloj hecho con una copa, un soporte para bombillas y una Photon se desmonta en un plis sacando la base. El único enchufe que tiene es el conector USB Micro."
  %}
