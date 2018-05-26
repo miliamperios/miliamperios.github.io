@@ -10,7 +10,7 @@ Las nuevas hornadas de microcontroladores ([WeMos D1 mini PRO](https://wiki.wemo
 
 Uno de los ejemplos más comunes son los [NeoPixel](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels): podemos alimentarlos con 3.3v y controlarlos con una señal de 3.3v, pero brillarán lo justo. Si los alimentamos con 5v y la señal es de 3.3v, el comportamiento será errático, así que no nos queda otra que alimentarlos a 5v y amplificar la señal a 5v.
 
-Para amplificar una señal de 3.3v a 5v se utiliza un chip llamado "level shifter" (aunque el nombre oficial es "74HTC245 - Octal bus transceiver", que da más respeto) Es un chip al que por un lado se conectan las señales de 3.3v y por el otro, tecnimágicamente, aparecen convertidas en señales de 5v. El montaje es muy sencillo:
+Para amplificar una señal de 3.3v a 5v se utiliza un chip llamado "level shifter" (aunque el nombre oficial es "74HTC245 - Octal bus transceiver", que da más respeto) Es un chip que se alimenta con 5v, por un lado se conectan las señales de 3.3v y por el otro, tecnimágicamente, aparecen convertidas en señales de 5v. El montaje es muy sencillo:
 
 {% include image.html
   img="assets/2018-05-26-levelshifter.png"
