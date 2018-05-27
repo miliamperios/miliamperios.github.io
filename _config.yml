@@ -3,6 +3,7 @@ show_dir_listing: false
 url: https://miliamperios.github.io
 
 # Build settings
+future: false
 incremental: true
 kramdown:
   syntax_highlighter: rouge
