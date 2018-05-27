@@ -19,7 +19,7 @@ body {
   padding: 1em;
 }
 
-ul, li {
+.unstyled ul, .unstyled li {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -34,6 +34,8 @@ ul, li {
     margin-top: 0.3em;
   }
 }
+
+
 
 figure {
   margin: 0;
