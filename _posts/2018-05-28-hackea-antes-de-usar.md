@@ -20,5 +20,5 @@ Sólo tienes que pensar en cómo puedes introducir el aparato en cuestión en tu
 {% include image.html
   img="assets/27-05-2018_hackea_antes_de_usar.jpg"
   title="Mando a distancia de persiana hackeado"
-  caption="Este mando a distancia vive ahora en las tripas de una litera con mando centralizado para luces y persiana. Se han soldado cables en paralelo a los pulsadores del mando y añadido un relé pora cada botón para poder programar la persiana y controlarla desde un controladorcito Arduino."
+  caption="Este mando a distancia vive ahora en las tripas de una litera con mando centralizado para luces y persiana. Se han soldado cables en paralelo a los pulsadores del mando y añadido un relé para cada botón para poder programar la persiana y controlarla desde un controladorcito Arduino."
  %}
