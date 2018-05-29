@@ -17,8 +17,7 @@ Son ideales para agrupar cables, o para reforzar soldaduras. También van muy bi
   caption="Son perfectos para asegurar conectores si el cable va moverse o tiene cierto peso. Sirven también para cubrir soldaduras cable + cable. Los calientas con el soldador o pistola de aire caliente, se encogen y sujetan y protegen."
  %}
 
- ### Referencias:
+### Referencias
+
  Set termorrectráctiles 560 pcs:
  : <http://amzn.eu/cBAUb2P>
-
- 
