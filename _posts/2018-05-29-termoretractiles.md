@@ -20,3 +20,5 @@ Son ideales para agrupar cables, o para reforzar soldaduras. También van muy bi
  ### Referencias:
  Set termorrectráctiles 560 pcs:
  : <http://amzn.eu/cBAUb2P>
+
+ 
