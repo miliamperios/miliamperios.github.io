@@ -11,7 +11,8 @@ kramdown:
     fenced_code_blocks: true
 sass:
   style: compressed
-
+plugins:
+  - jekyll-feed
 # Exclude this from being processed by Jekyll
 exclude:
   - vendor
