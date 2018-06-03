@@ -2,9 +2,8 @@
 title: Enchufad, enchufad, malditos
 author: Arnauti
 tags: enchufes conectores prototipo
+synopsis: Organiza tu prototipo para poder ser extraído con facilidad.
 ---
-
-Organiza tu prototipo para poder ser extraído con facilidad.
 
 Muchas veces cacharrear va de meter una parte electrónica (una breadboard llena de cablecitos, por ejemplo) en alguna estructura física (un armario, una caja, una litera, un dispensador de papel).
 

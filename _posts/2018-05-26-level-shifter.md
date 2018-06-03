@@ -2,9 +2,8 @@
 title: De 3.3 a 5v sin despeinarse
 author: Kokuma
 tags: circuitos
+synopsis: Convierte una señal de 3.3v en otra de 5v de manera sencilla.
 ---
-
-Convierte una señal de 3.3v en otra de 5v de manera sencilla.
 
 Las nuevas hornadas de microcontroladores ([WeMos D1 mini PRO](https://wiki.wemos.cc/products:d1:d1_mini_pro), [Adafruit Huzzah](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout?view=all)...) utilizan un valor menor de voltaje en sus salidas digitales (3.3v en vez de los 5v de un Arduino) Esto supone un problema cuando tenemos que manejar dispositivos que requieren los 5v para funcionar adecuadamente.
 

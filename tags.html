@@ -1,0 +1,19 @@
+---
+regenerate: true
+---
+
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+	<h3 class="tags" id="{{ t }}">{{ t | capitalize }}</h3>
+	<ul class="tags">
+	{% for post in posts %}
+	  {% if post.tags contains t %}
+	  <li>
+	    <small><a href="{{ post.url }}">{{ post.title }}</a>
+	    <span class="date">{{ post.date | date: "%-d/%m/%Y"  }}</span></small>
+	  </li>
+	  {% endif %}
+	{% endfor %}
+	</ul>
+{% endfor %}

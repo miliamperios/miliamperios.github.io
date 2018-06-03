@@ -2,9 +2,8 @@
 title: Hackea antes de usar
 author: Arnauti
 tags: hack
+synopsis: Piérdele el miedo a modificar cosas baratas que (casi) hacen lo que necesitas.
 ---
-
-Piérdele el miedo a modificar cosas baratas que (casi) hacen lo que necesitas.
 
 Hay muchísimos cacharros a tu alrededor que hacen _casi_ lo que necesitas incorporar a un prototipo.
 

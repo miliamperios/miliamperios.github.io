@@ -19,7 +19,7 @@ body {
   padding: 1em;
 }
 
-ul.unstyled , ul.unstyled li {
+ul.unstyled , ul.unstyled li, ul.tags , ul.tags li {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -34,7 +34,6 @@ ul.unstyled , ul.unstyled li {
     margin-top: 0.3em;
   }
 }
-
 
 
 figure {
@@ -56,6 +55,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2em;
 }
 
+h3.tags {
+  margin-bottom:0;
+}
+
 h1 a {
   color: $base-color;
   text-decoration: none;
@@ -68,6 +71,9 @@ section {
   }
   h2 + p {
     margin-top: 0.5em;
+  }
+  h4 {
+    margin: 0.5em 0;
   }
   p small {
     color: $color-light;

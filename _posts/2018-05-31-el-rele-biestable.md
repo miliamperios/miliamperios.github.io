@@ -2,9 +2,8 @@
 title: El relé biestable
 author: Arnauti
 tags: componentes prototipo
+synopsis: El relé biestable no gasta energía mientras mantiene el contacto.
 ---
-
-El relé biestable no gasta energía mientras mantiene el contacto.
 
 Un relé es un elemento mecánico que sustituye a un interruptor:
 Le mandas una señal de control (los voltajes varían, pero para prototipos con microcontroladores pequeños suelen ser de __5v__) y enclava un electroimán que produce un contacto que aguanta voltajes y cargas muy superiores.

@@ -2,9 +2,8 @@
 title: Termoretráctiles
 author: Arnauti
 tags: prototipo
+synopsis: Protege tus cables y conexiones con fundas termorretráctiles.
 ---
-
-Protege tus cables y conexiones con fundas termorretráctiles.
 
 Las fundas termorretráctiles son tubos de colores de diferentes diámetros y longitudes que se encogen cuando se les aplica calor.
 

@@ -2,9 +2,8 @@
 title: Soportes adhesivos para bridas
 author: Arnauti
 tags: bridas prototipo
+synopsis: Tener los cables controlados es fundamental cuando prototipeas.
 ---
-
-Tener los cables controlados es fundamental cuando prototipeas.
 
 Cuando quieres enrutar cables a lo bestia y mantenerlos ordenaditos y agrupados, hay varias opciones, pero ninguna tan cómoda y flexible como los soportes para bridas adhesivos.
 
